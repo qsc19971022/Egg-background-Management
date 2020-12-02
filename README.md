@@ -31,3 +31,6 @@ $ npm start
 
 - Node.js 8.x
 - Typescript 2.8+
+
+
+这个后台管理系统中还使用了redis以及mysql，要在本机上安装他们
