@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "10170551",
+    "database": "student",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "vuets",
+    "password": 10170551,
+    "database": "vuets",
+    "host": "47.94.107.136",
+    "dialect": "mysql"
+  },
+
+}
